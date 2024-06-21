@@ -1,0 +1,34 @@
+*Solomon Personal Assistant*
+
+Contact: tochukwuonyiagha@gmail.com
+
+*Daily Tasks*
+
+*2024-06-26*
+
+- [ ] Visit Becki (Task 1)
+- [ ] Eat lunch with Mike (Task 2)
+
+*2024-06-27*
+
+- [ ] Have a meeting with Ali (Task 1)
+- [ ] Join the club (Task 2)
+
+*2024-06-28*
+
+- [ ] Have breakfast with Emily (Task 1)
+- [ ] Go out with Pretty (Task 2)
+
+*Upcoming Tasks*
+
+- [ ] Go for a vacation (Task 1) (due date: TBD)
+- [ ] Have a good time (Task 2) (due date: TBD)
+
+*Completed Tasks*
+
+- [x] Go to the gym (09:00 June 23, 2024)
+- [x] Meeting with the board (10:00 June 24, 2024)
+
+*Notes*
+
+- Remember to go with the laptop
